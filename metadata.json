@@ -1,0 +1,5 @@
+{
+  "name": "Digital Campus Ecosystem",
+  "description": "A comprehensive monorepo-style application featuring a public-facing school website and a secure, role-based management portal (LMS/ERP).",
+  "requestFramePermissions": []
+}
